@@ -1,15 +1,24 @@
-````markdown
+Certainly! Here's a simplified README file focusing on how to run the project:
+
 # HODLINFO Project
 
-This project is a simple web application that fetches cryptocurrency data from the WazirX API and displays it on a web page. The application is built using Node.js, Express.js, MongoDB, and EJS.
+HODLINFO is a straightforward web application designed to fetch and display cryptocurrency data from the WazirX API. The application is built using Node.js, Express.js, MongoDB for data storage, and EJS for dynamic HTML rendering.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Getting Started
 
-To run this project locally, follow these steps:
-
 ### Prerequisites
 
-- Node.js installed on your machine.
+Ensure you have Node.js installed on your machine.
 
 ### Installation
 
@@ -17,8 +26,8 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone <repository-url>
+
    ```
-````
 
 2. Navigate to the project directory:
 
