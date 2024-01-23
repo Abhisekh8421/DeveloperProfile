@@ -60,6 +60,8 @@ Ensure you have Node.js installed on your machine.
 4. Click on "Store Coins" to fetch and store cryptocurrency data.
 
 5. Click on "Get Coins" to retrieve and display the stored cryptocurrency data.
+
+##IMAGES
 ![task_2](https://github.com/Abhisekh8421/DeveloperProfile/assets/117088392/ea590624-1523-4bfe-919b-ddb568b04605)
 
 
