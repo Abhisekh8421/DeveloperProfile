@@ -50,6 +50,53 @@ body {
   text-align: center;
 }
 
+/* Add a media query for tablets */
+@media only screen and (max-width: 768px) {
+  body {
+    padding: 0.5rem;
+  }
+
+  .section {
+    padding: 10px;
+  }
+
+  .section__column--first,
+  .section__column--third {
+    margin-right: 10px;
+  }
+}
+
+/* Add a media query for mobile phones */
+@media only screen and (max-width: 400px) {
+  body {
+    padding: 0.3rem;
+  }
+
+  .section {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+  }
+
+  .section__column--first,
+  .section__column--third {
+    margin-right: 0;
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar-middle {
+    margin-top: 10px;
+  }
+
+  .navbar-right {
+    margin-top: 10px;
+  }
+}
+
 
 
 /* //navbar */
